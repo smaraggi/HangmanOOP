@@ -1,6 +1,7 @@
 # Algoritmos y Programación III
 ## Universidad de Buenos Aires - Facultad de Ingeniería
 ### 2do cuatrimestre de 2023
+### Cátedra Corsi - Essaya - Maraggi
 
 #### Ejemplo de Programación Orientada a Objetos
 #### Juego El ahorcado
