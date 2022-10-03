@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author smara
+ *
+ */
+module hangman {
+}
